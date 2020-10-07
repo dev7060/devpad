@@ -1,2 +1,2 @@
 # deVpad
- Microsoft Windows Notepad clone
+ microsoft notepad clone
